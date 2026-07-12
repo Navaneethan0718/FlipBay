@@ -37,3 +37,15 @@ Name: Navaneethan S
 
 Course: Database Management System (DBMS)
 
+# Week 2 – Entity and Relationship Analysis
+
+Project: E-Commerce Order Management Database System
+
+Contents:
+- Entity Analysis Report
+- Entity Relationship Analysis
+- Primary Key and Foreign Key Identification
+- Cardinality Analysis
+
+Submitted as part of Week 2 Database Design Assignment.
+
